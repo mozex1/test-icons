@@ -175,9 +175,3 @@ const { log, dir } = console;
 // log(sum()) //0
 // log(sum(3)()) //1
 // log(sum(2)(2)()) //4
-
-let i =0
-do {
-    i += 1;
-    console.log(i); }
-    while (i < 5);
