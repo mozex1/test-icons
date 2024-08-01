@@ -177,3 +177,4 @@ const { log, dir } = console;
 // log(sum(2)(2)()) //4
 
 // f1
+// f2
