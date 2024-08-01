@@ -176,5 +176,5 @@ const { log, dir } = console;
 // log(sum(3)()) //1
 // log(sum(2)(2)()) //4
 
-// f13333
-// f23333
+// f2c
+// f1c
